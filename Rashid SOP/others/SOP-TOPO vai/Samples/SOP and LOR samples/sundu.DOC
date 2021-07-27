@@ -1,0 +1,109 @@
+\documentstyle[11pt,a4]{article}
+\begin{document}
+\begin{center}
+{\large \bf Personal Statement}
+\end{center}
+
+\
+
+My early fascination for computers (since high school), combined with
+a strong liking for analytical subjects inspired me to seek admission
+to one of the best and most competitive Computer Science undergraduate
+programs in India --- the B.Tech program in IIT Bombay. I was
+succesful in this endeavour, being ranked 113th among around 100,000
+students in the entrance exams to the IITs. In IIT, a very strong
+curriculum, introduced me to a wide range of subjects in Computer
+Science, with a strong emphasis on theoretical fundamentals.  I have
+always believed that a subject is understood better when one actually
+sees an abstract theory being realized by a practical system. The
+various demanding laboratory courses and projects in the B.Tech
+program at IIT, have provided me with a better understanding of
+Computer Science.  This belief has led to my growing interest in
+computer systems, and I have consistently performed well in my
+laboratory courses. I have also, as part of a campus wide systems
+support group, been involved in compiling and installing various
+software and systems.
+
+\
+
+Given these practical interests, my theoretical background, my
+aptitude and academic potential for graduate study (indicated by my
+GRE General score of (V 700, Q 790, A 780) and Computer Science
+Subject score in the 98th percentile), I feel that pursuing a PhD
+degree in Computer Science is a step in the right direction towards my
+long term career goals.
+
+\
+
+Thirty years from now, I want to be able to look back at the
+accomplishments of my life and feel a sense of satisfaction.
+Satisfaction, because my work made a significant impact in my field.
+And if I can achieve this goal I will consider my career a
+success. Over the past four years, I have become absolutely convinced
+that the path towards this goal will involve leveraging my current
+skills and abilities to make significant contributions to improve the
+understanding of systems and concepts in the field of Computer
+Science. Six or seven years from now, I see myself as part of a
+leading research group, contributing my bit to the field of Computer
+Science. A PhD in Computer Science, is therefore a natural first step
+towards this goal.
+
+\
+
+I plan to work towards a PhD in the field of {\bf Distributed Systems
+and Networking}. I have become interested in this area during the
+course of my undergraduate studies at IIT Bombay, through a series of
+research and project experiences.
+
+\
+
+In my junior year, I presented a home paper on ``Wormhole Routing in
+Interconnection Networks.''  Currently, I am in the midst of my year
+long B.Tech thesis, titled ``Distribution Strategies for the
+Satisfiability Problem,'' guided by Prof. G. Sivakumar (PhD,
+University of Illinois, Urbana-Champaign).  For this thesis, I am
+writing a distributed solution for the satisfiability problem, on a
+network of workstations. My work will involve studying various
+distributed computing techniques and writing a distributed version of
+existing sequential solutions to satisfiability. Moreover, this
+semester I have undertaken as an Operating Systems course project, a
+study of implementation issues in ``Group Communication in the {\em
+Amoeba} Distributed Operating System'' and will be crediting a
+Postgraduate elective --- ``Foundations of Parallel Computation'' in
+my final (next) semester.
+
+\
+
+In my opinion, the effective communication of ideas is an important
+part of any research career.  During my undergraduate years in IIT, I
+have been fortunate to have had some experience in teaching basic
+Computer Science.  In my junior year, I was a teaching assistant for
+an institute level introductory course in programming, ``CS 101:
+Computer Programming and Utilization,'' for freshmen. The work
+involved conducting tutorials, grading assignments, and providing
+assistance during practical sessions.
+
+\
+
+In my junior and senior years, I have been the Technical Coordinator,
+and subsequently General Seceratary of the Computer Science and
+Engineering Association, IIT Bombay. In this capacity, I have been
+actively involved in planning, organizing and lecturing at, various
+workshops on UNIX aimed at both technical and lay audiences.  These
+experiences have been extremely rewarding, and I am sure they will
+help me in any teaching duties as a graduate student, and later on in 
+my career.
+
+\
+
+I am confident that my strong motivation, my undergraduate experiences
+and my analytical aptitude will help me to measure up to the rigours
+of graduate study. I am looking forward to make my contributions to
+the research going on at Dartmouth.
+
+\vspace {1cm}
+\begin {flushright}
+{\bf Arvind Sundararajan}
+\end {flushright}
+
+\end {document}

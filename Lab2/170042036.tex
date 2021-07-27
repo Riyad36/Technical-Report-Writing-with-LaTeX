@@ -1,0 +1,102 @@
+\documentclass[a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=1in]{geometry}
+\usepackage[fleqn]{amsmath} 
+\usepackage{amssymb}
+\usepackage[dvipsnames]{xcolor}
+\thispagestyle{empty}
+\begin{document}
+
+\noindent \tiny \sffamily {Calculus and Analysis $>$ Differential Equations $>$ Partial Differential Equations $>$
+
+\noindent Interactive Entries $>$ Interactive Demonstrations $>$} \vspace{0.5cm}
+
+
+\noindent{\color{Emerald}\LARGE  \sffamily {Helmholtz Differential Equation}}
+
+
+\noindent{\color{ForestGreen}\rule{\linewidth}{0.1mm} }
+
+\noindent \scriptsize An {\color{Emerald} elliptic partial differential equation} given by 
+\begin{equation} \label{eq1}
+\nabla^2 \Psi + k^2 \Psi = 0, 
+\end{equation}
+
+\noindent where $\Psi$ is a {\color{Emerald} scalar function} and $\nabla^2$ is the  scalar {\color{Emerald}Laplacian}, or 
+\begin{equation} \label{eq2}
+\nabla^2 \textbf{F} + k^2 \textbf{F} = 0,  
+\end{equation} 
+
+
+\noindent where \textbf{F} is a {\color{Emerald}vector function} and $\nabla ^2$ is the vector Laplacian (Moon and Spencer 1988, pp. 136-143).\vspace{0.5cm} 
+
+\noindent When \textit{k}=0, the Helmholtz differential equation reduces to {\color{Emerald}Laplace's equation}. When $\textbf{k}^2<0$ (i.e., for imaginary \textit{k}), the equation becomes the space part of the diffusion equation. \vspace{0.5cm} 
+
+\noindent The Helmholtz differential equation can be solved by {\color{Emerald}separation of variables} in only 11 coordinate systems, 10 of which (with the exception of {\color{Emerald}confocal paraboloidal coordinates}) are particular cases of the {\color{Emerald}confocal ellipsoidal} system: {\color{Emerald}Cartesian, confocal ellipsoidal, confocal paraboloidal, conical, cylindrical, elliptic cylindrical, oblate spheroidal, paraboloidal, parabolic cylindrical, prolate spheroidal, and spherical coordinates} (Eisenhart 1934ab). {\color{Emerald}Laplace's equation} (the Helmholtz differential equation with $k=0$) is separable in the two additional {\color{Emerald} bispherical coordinates} and toroidal {\color{Emerald}coordinates.} \vspace{0.5cm}
+
+\noindent If Helmholtz's equation is separable in a three-dimensional coordinate system, then Morse and Feshbach (1953, pp. 509-510) show that 
+
+\begin{equation} \label{eq3}
+\frac{h_1h_2h_3}{h_n^2} = f_n(u_n)g_n(u_i, u_j), 
+\end{equation} \vspace{0.2cm}
+
+\noindent where $i\neq j\neq n$. The {\color{Emerald}Laplacian} is therefore {\color{Emerald}of the form} 
+
+\begin{equation} \label{eq4}
+\begin{split}
+\nabla^2 = \frac{1}{h_1h_2h_3} & \left \{g_1(u_2, u_3) \frac{\partial}{\partial u_1} \left [f_1(u_1) \frac{\partial}{\partial u_1} \right] + g_2 \right.\\
+& \left. (u_1, u_3) \frac{\partial}{\partial u_2} \left [f_2(u_2) \frac{\partial}{\partial u_2} \right] + g3 (u_1, u_2) \frac{\partial}{\partial u_3} \left [f_3(u_3) \frac{\partial}{\partial u_3} \right] \right\},
+\end{split}
+\end{equation} \vspace{0.2cm}
+
+\noindent which simplifies to
+
+\begin{equation} \label{eq5}
+\nabla^2 = \frac{1}{h_1^2f_1} \frac{\partial}{\partial u_1} \left [f_1(u_1) \frac{\partial}{\partial u_1} \right] + 
+\frac{1}{h_2^2f_2} \frac{\partial}{\partial u_2} \left [f_2(u_2) \frac{\partial}{\partial u_2} \right] + 
+\frac{1}{h_3^2f_3} \frac{\partial}{\partial u_3} \left [f_3(u_3) \frac{\partial}{\partial u_3} \right].
+\end{equation} \vspace{0.3cm}
+
+\noindent Such a coordinate system obeys the {\color{Emerald}Robertson condition}, which means that the {\color{Emerald}Stäckel determinant} is {\color{Emerald}of the form}
+
+\begin{equation} \label{eq6}
+S = \frac{h_1 h_2 h_3}{f_1(u_1)f_2(u_2)f_3(u_3)}
+\end{equation} \vspace{1cm}
+
+
+\noindent \sffamily {\color{OliveGreen}SEE ALSO:}
+
+\noindent {\color{Emerald}Laplace's Equation, Poisson's Equation, Separation of Variables, Spherical Bessel Differential Equation, Stäckel Determinant}
+
+\noindent{\color{ForestGreen}\rule{7cm}{0.1mm}}
+
+\noindent \sffamily {\color{OliveGreen}REFERENCES:}
+
+\noindent Eisenhart, L. P. "Separable Systems in Euclidean 3-Space." Physical Review 45, 427-428, 1934a.
+
+\noindent Eisenhart, L. P. "Separable Systems of Stäckel." Ann. Math. 35, 284-305, 1934b.
+
+\noindent Eisenhart, L. P. "Potentials for Which Schroedinger Equations Are Separable." Phys. Rev. 74, 87-89, 1948.
+
+\noindent Kriezis, E. E.; Tsiboukis, T. D.; Panas, S. M.; and Tegopoulos, J. A. "Eddy Currents:theory and Applications,." Proc. IEEE 80, 1559-1589, 1992.
+
+\noindent Moon, P. and Spencer, D. E. "Eleven Coordinate Systems" and "The Vector Helmholtz Equation." §1 and 5 in {\color{Emerald}Field Theory Handbook, Including Coordinate Systems, Differential Equations, and Their Solutions, 2nd ed.} New York: Springer-Verlag, pp. 1-48 and 136-143, 1988.
+
+\noindent Morse, P. M. and Feshbach, H. {\color{Emerald}Methods of Theoretical Physics, Part I.} New York: McGraw-Hill, pp. 125-126, 271, and 509-510, 1953.
+
+\noindent Zwillinger, D. (Ed.). {\color{Emerald}CRC Standard Mathematical Tables and Formulae.} Boca Raton, FL: CRC Press, p. 417, 1995.
+
+\noindent Zwillinger, D. {\color{Emerald}Handbook of Differential Equations, 3rd ed.} Boston, MA: Academic Press, p. 129, 1997.
+
+\noindent{\color{ForestGreen}\rule{7cm}{0.1mm}}
+
+\noindent Referenced on Wolfram|Alpha: Helmholtz Differential Equation
+
+\noindent{\color{ForestGreen}\rule{7cm}{0.1mm}} \vspace{0.3cm}
+
+\noindent \sffamily {\color{OliveGreen}CITE THIS AS:} 
+
+\noindent {\color{Emerald}Weisstein, Eric W.} "Helmholtz Differential Equation." From {\color{Emerald}MathWorld}--A Wolfram Web Resource. {\color{NavyBlue}https://mathworld.wolfram.com/HelmholtzDifferentialEquation.html}
+
+\end{document}
+ 

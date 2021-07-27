@@ -1,0 +1,96 @@
+\documentclass[12pt]{article}
+\usepackage{a4wide}
+\begin{document}
+\begin{center}
+{\bf \LARGE Statement of Purpose} \\
+\end{center}
+
+	My interest in Computer Science stemmed from  programming
+in High School, during which period
+I read introductory books on Algorithms by Dromey
+and Wirth. It was this informal literary venture that introduced me for the 
+first time to {\em doing things as efficiently as possible}. I found this
+an intellectually stimulating exercise and resolved to pursue a career in 
+Computer Science. \\
+
+	 Abstract Mathematics has always fascinated me. The course
+work during my B.Tech. program has given me exposure to a wide range of 
+advanced mathematical techniques and also provided an insight into
+Theoretical Computer Science. 
+	In particular, the concepts I acquired in Graph Theory and Complexity theory,
+during the courses in {\bf Discrete Structures}, {\bf Data
+Structures and Algorithms}, and {\bf Theory of Computation}, have interested me
+immensely. 
+
+	My B.Tech. Seminar included a literature survey on {\bf Parallel
+and Randomized Algorithms} and my B.Tech. Project is in the area of 
+{\bf Graph--Drawing Algorithms}. 
+These have given me a chance to do research in the form of proving lower
+bounds on efficiency of algorithms, design of graph algorithms and 
+combinatorial approaches to planarity of graphs.
+It has been a wonderful first--hand
+experience in problem--solving, working with small examples
+to begin with, developing an intuition for the problem, coming up with
+conjectures, constructing counterexamples against them, modifying the 
+conjectures and (if I am lucky!) proving them. The satisfaction one derives 
+from this experience, is in my opinion, the greatest reward for research. 
+
+	With the purpose of honing my mathematical background for these fields
+further, I have taken the elective {\bf Algorithms and Complexity} and 
+registered for courses in {\bf Abstract Algebra}, {\bf Combinatorial
+Optimization}, and {\bf Information Theory and Coding} for the coming semester. 
+Currently, I am also attending a lecture series on {\bf Markov Chains} and
+ their application in the {\bf Uniform Generation of Matroids}. \\
+
+	I strongly feel that Algorithms and Complexity theory are the core
+subjects in Computer Science. These fields have both a mathematical flavor as
+well as potential for in--depth research which draws me towards them.
+Hence I envisage myself, a few
+years from now, as researching on the lines of Theoretical Computer Science,
+preferably in an academic environment.
+
+	I have a strong inclination towards teaching. Having delivered lectures
+during the Workshops and Seminars conducted by the department at the Institute
+level and doing a teaching assistantship for an introductory course in
+programming, has built in me a lot of confidence and strengthened my
+resolve to teach. I believe (and this has often been reinforced by my B.Tech.
+Project advisor) that teaching a subject is the best way to learn more about
+it. I would love to teach the courses in Theoretical Computer Science that I
+have taken during my undergraduate studies to enhance my understanding of
+these fields and get a better grasp on the basics. 
+	
+	A few years back, Theoretical Computer Science was in its incipient
+stage in India and the main research work was affiliated with the 
+Mathematics department. Recently however, a lot of young post--graduates
+have returned
+to the country and are pursuing research in academic environments. IIT--Bombay and Tata Institute of Fundamental Research (TIFR), Bombay now have 
+an excellent group in Theoretical Computer Science. I would like to come back
+for teaching and work as a part of this group. \\
+	
+	I have heard from IIT Alumni and faculty about the Theoretical Computer
+Science department at the Stanford University. Also, my advisors have recommended the
+University on the basis of the faculty interests, the research done in the 
+past, the work currently in progress,
+ and the excellent performance of the students who have graduated
+from your department. In my course work and literature surveys at IIT, 
+I have had a chance to read the
+publications of the faculty, especially in the field of {\bf Approximation
+Algorithms} and {\bf Parallel Algorithms}.
+I find that the graduate program at your University
+suits my interests extremely well. 
+
+	I realize that the purpose I have in mind would require a constant and
+a well--directed effort over the years to come. It is with this mental
+preparation that I desire to join the Ph.D. program at your department. \\
+
+	In conclusion I do hope that I will be given a fair chance to realize
+my objectives by being granted admission with financial aid at your 
+institution. My academic credentials combined with my research experience and
+interest in the area of study that I have selected, give me the confidence to
+dain that if provided with such an opportunity, I would acquit myself
+creditably in your stimulating academic environment and thereby contribute my
+own mite to the academic milieu at your department.
+
+\vspace{0.5cm}
+\flushright{-- Viral V. Acharya}
+\end{document}

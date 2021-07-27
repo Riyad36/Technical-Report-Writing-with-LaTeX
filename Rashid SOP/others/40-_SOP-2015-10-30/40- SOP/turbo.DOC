@@ -1,0 +1,62 @@
+\documentstyle{report}
+\pagestyle{empty}
+\begin{document}
+\begin{center}	{\Large \bf Statement of Purpose}  \end{center}
+
+\subsubsection*{My Long Term Goals}
+My undergraduate training in the Department of Computer Science and Engineering at the Indian Institute of Technology, Bombay,
+has exposed me to a stimulating academic environment where learning and research go hand--in--hand. Through the many
+opportunities I have had here, I have found that I have a deep interest in research work and a strong aptitude for the
+type of problem solving and problem discovery that it involves. I have, therefore, decided to pursue active research in
+Computer Science as a career.
+
+\subsubsection*{My Areas of Interest}
+Of the many fields in the Computer Science spectrum, I am especially interested in Computer Systems. Within this field,
+I am interested in 
+computer networks, distributed systems, operating systems and distributed operating systems. My junior seminar work,
+my practical training and my courses have given me plenty of exposure to these areas and I feel that I have sufficient
+motivation and aptitude to work in this field.
+
+I am also interested in Programming Language design and Programming Systems. I have worked in these areas in my 
+summer project at TIFR and in my ongoing B. Tech. project. I would like to continue to learn about these areas in 
+my graduate program.
+ 
+\subsubsection*{My Immediate Goals}
+I plan to work towards a Ph. D. program with a focus on Distributed and Parallel Operating Systems. I would also like to follow up my interests
+in Computer Networks, Distributed Systems, Operating Systems and Programming Languages through my course work. I feel that this should be my 
+next step on my road to a research career in Computer Science.
+
+\subsubsection*{Why Duke?}
+I have selected Duke as the place for me to continue with my education because I found that the Graduate Program in 
+Computer Science suited my needs perfectly. I have found the Duke Computer Science Department faculty and the research
+being carried out in Computer Systems, especially in Distributed Operating Systems, to be very impressive.
+I feel that to be associated with this group for the many years of my Ph. D. would stand me in good stead for my research
+career. I have also been impressed by the computing facilities available at Duke for research and education. These are
+much superior to those available to a graduate student in India. Taking all these factors into  account, I feel that
+Duke is the perfect place for my graduate studies and I am confident that I will make a positive contribution to the
+ongoing research work at Duke.
+
+\subsubsection*{Am I Prepared?}
+My undergraduate preparation at the Computer Science and Engineering Department of the Indian Institute of Technology, Bombay,
+has given me a very substantial knowledge of the basic areas of Computer Science. Through my junior seminar work, I have acquired a good knowledge
+of distributed operating systems and the problems they entail. It also exposed me to the broad
+fields of computer networks, distributed systems and operating systems. I have also been exposed to practical 
+computer networks and network programming in the course of my practical training at the State Bank of India, Head Office.
+My course projects have given me plenty of experience in programming using various programming languages, software 
+packages and operating systems. I have selected {\em Introduction to Computer Networks} as an elective course in 
+the seventh semester so as to broaden my knowledge in this area. Therefore, I feel confident that I have acquired 
+both a broad base in Computer Science and a strong foundation in Computer Systems.
+
+\subsubsection*{Summing Up}
+I am aware of the hard work and perseverence necessary for research work and I know that it is not always as exciting as
+the published results seem to indicate. Nevertheless, I am sure that my aptitude and drive will see me through the 
+challenge. I hope to have a long and mutually profitable association with Duke.
+\begin{tabbing}
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\= \kill
+\>ASHIS TARAFDAR\\
+\end{tabbing}
+
+
+\end{document}
+
+

@@ -1,0 +1,139 @@
+\documentstyle[11pt,a4wide]{letter}
+\pagestyle{empty}
+\begin{document}
+
+\begin{center}
+{\huge {\bf Statement of purpose} }
+\end{center}
+%
+\vspace{1cm}
+%
+{\Large {\bf My goals}}\\
+I am applying to the PhD program in Computer Science at Brown University.
+After considering my aptitude and the 
+ type of work that I enjoy most, I am convinced that
+I want to take up a career in research in Computer Science.
+A PhD is just one step towards realising this goal.
+
+\ \\
+{\Large {\bf My preparation for the same}}\\
+My formal introduction to Computer Science began at IIT-Bombay. Under
+its excellent faculty, I got exposed to  the entire spectrum of
+Computer Science. In an environment that is intensely competitive, and where
+research goes hand-in-hand with learning, I also got a lot of drill in
+both theoretical research work and implementation, thus laying a sound
+foundation for graduate study.
+
+My academic and co-curriculur record has been consistently good. Throughout
+school as well as now, I have been at or near the top of my class. I have
+listed some of my achievements, on the attached resum\'{e}.
+What I would like to stress most  however is the fact that I have been
+{\em consistent} in {\em all} academic or co-curriculur (and even 
+extracurriculur) tasks that I have undertaken.
+
+\ \\
+{\Large {\bf My primary interests}}\\
+ I have always loved problems which
+ involve plenty of visualisation. At IIT, this resulted in
+ an inclination towards {\bf Computer Graphics} and 
+{\bf Computational Geometry}, and also Algorithms.
+ {\em These are the subjects that I
+want to pursue in my graduate study}.
+
+I chose the elective {\em
+Computer Graphics} and a graduate level course {\em Algorithms and
+Complexity} this semester, in line with these interests. My B.Tech. Project
+ (home paper), under {\bf Dr.Sharat Chandran},
+is on {\bf Visible Surface Determination} (hidden surface removal), a very
+popular topic in Computational Geometry.
+
+
+\ \\
+{\Large {\bf Why Brown University ?}}\\
+It would be a clich\'{e} to say that all fields in 
+Computer Science are highly interlinked.
+ I have  experienced this myself, since frequently, while working on a
+problem in one field, I have (through abstraction/ reduction/ analogy)
+landed up looking at another problem, that one would normally put under
+a different field altogether.
+
+Hence, two criteria that I considered while selecting a university
+for my Ph.D. were
+\begin{enumerate}
+\item the university must be very strong in {\bf Computational Geometry} 
+and/or {\bf Computer Graphics} (my primary interests), and
+\item it must be fairly good, if not exceptional, in other fields of
+Computer Science too (especially, algorithms and combinatorics).
+\end{enumerate}
+Brown University more than satisfies these criteria. My B.Tech.
+Project guide,
+Dr.Sharat Chandran also strongly recommended it. An added attraction is
+its participation in the
+Science and Technology Center for Computer Graphics and Scientific 
+Visualisation.
+
+There is one more ({\em and the most compelling}) reason.
+In my B.Tech. Project, my guide and I are
+ concentrating on developing better methods 
+for the moving/ multiple viewpoint case of hidden 
+surface removal. The preliminary
+ ideas that have emerged out of this effort use a
+result on {\em Dynamic planar point location} by
+{\bf Prof.Roberto Tamassia}. The {\em line sweep} technique is the other
+major component in these ideas, and it was from {\bf Prof.Preparata}'s 
+book on Computational Geometry, that I first learnt it.
+ {\em The fact that  both are from Brown University
+ convinced me that  Brown University is the natural
+choice in realising my graduate goals.}
+ Subsequently I  corresponded with Prof.Tamassia, and his
+encouraging reply reinforced my decision to apply to Brown.
+
+It would be a pleasure to continue my current research focus at Brown under
+their supervision. At the same time, I am sure that many other problems which
+the Brown CS department is currently focussing on, would be equally 
+interesting to work on.
+
+
+\ \\
+{\Large {\bf What I plan to do at Brown}}\\
+I plan to carry on advanced study of both Computer Graphics and 
+Computational Geometry, as well as related fields (e.g. algorithms),
+not only through coursework but also by
+ {\em participating in one of the several ongoing projects}.
+This will also give me the opportunity to
+  contribute my bit to the understanding of the fields which interest me
+so much.
+
+ I am keen that 
+the output of my PhD (and in fact, any PhD),
+be well worth the time and effort spent on it. For the reasons mentioned
+above, I am sure that Brown University
+will provide me the right environment for this. 
+
+\ \\
+{\Large {\bf Financial Aid}}\\
+I would be fully dependent on aid to finance my graduate studies.
+ If I am granted an assistantship, then given my long term goals, 
+a research assistantship would be
+an ideal experience for me. I also have some experience as a teaching 
+assistant. Not only have I enjoyed it, but the students have also appreciated
+it. This makes me confident that I will be a good teacher also.
+
+\ \\
+{\Large {\bf In conclusion...}}\\
+I am aware that Brown University expects very high standards from its students.
+On my part, I can assure you of hard work. I believe that my enthusiasm will 
+enable me to meet those expectations. My consistency in all previous academic
+and co-curriculur activities is what gives me confidence when I say this.
+
+Eagerly looking forward to a long and mutually profitable 
+association with the Computer Science
+department of Brown University,
+
+\begin{flushright}
+Your's sincerely, \\
+Sumedh Barde
+\end {flushright}
+
+\end{document}
+

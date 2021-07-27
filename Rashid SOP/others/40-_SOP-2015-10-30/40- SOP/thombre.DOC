@@ -1,0 +1,77 @@
+\documentstyle[12pt,a4wide]{article}
+\begin{document}
+\pagestyle{empty}
+\begin{center}
+%\underline{\Large \bf Statement of Purpose}
+\underline{\large \bf Statement of Purpose}
+\end{center}
+\input{/users/ug91/thombre/general/app/apps/mysop/message}
+%
+%\section*{Introduction}
+
+I, Rahul Thombre, am a senior student of the Bachelor of Technology program
+in Computer Science and Engineering at the Indian Institute of Technology,
+Bombay. I am applying for graduate studies in Computer Science leading to a
+Ph.D. I see this as a first step towards achieving my career objective of
+research in an academic environment. 
+%
+%\section*{Academic Background}
+
+I have excelled in academics right from my school days. In school, I
+consistently used to secure one of the top positions in the class.
+In my twelfth standard examinations, I was placed in the merit position at
+an All India level. I have always been attracted towards subjects that
+draw upon one's  analytical abilities. Thus, Mathematics and Physics were
+my favorite subjects. I was placed among the top 1\% of the candidates who
+appeared for the National Search Examination in Physics all over
+India. Later, I secured the 97$^{\mbox{th}}$ position among the 80,000
+candidates who appeared throughout India for the Joint Entrance Examination. 
+This examination is conducted by the IIT's, the premier engineering
+institutions of India, for selecting the best of Indian talent.
+%
+%\section*{Computer Science Background}
+
+The undergraduate program at IIT aims to strike a balance between the
+theoretical as well as the practical aspects of Computer Science. This has
+given me a sound understanding of the fundamentals at both the theoretical
+as well as practical levels.
+
+I have performed reasonably well in my undergraduate courses at IIT, but
+since IIT admits only the best students throughout the country, I 
+believe, in view of the competitive atmosphere, that the grades secured
+should not be considered in an absolute sense.
+
+During the course of the B.Tech. program I have developed a keen interest
+in the fields of Computer Graphics, Algorithms and Operating
+Systems. At present I am working under the guidance of Dr.\ Sharat Chandran 
+on my home paper titled {\em Physically Based Modeling}. As a junior, I had
+presented a seminar on {\em Associative--Commutative Matching and
+Unification}. I have included a brief summary of both these separately.
+%
+%\section*{Purpose of Doctoral Study and Career Goals}
+
+During the course of my education at IIT,  I  have  realized  and
+felt  convinced that my true liking and aptitude lies in research
+and teaching. Research and teaching go  hand  in  hand.  Teaching
+gives one a sense of constructive participation in the education
+process. Research enables a person to  stay  in  touch  with  the
+latest  advances,  while  making  one's  own contributions to the
+field. I have also had a good deal of teaching experience as an 
+undergraduate teaching assistant during my junior year for the freshman
+course {\em Computer Programming and Utilization}. I have included a brief
+description of this and relevant certificates to substantiate my claim.
+
+I believe that graduate education is not merely a continuation of
+college  studies.  I think that  graduate  education  is  process,  in
+which the student learns how to do independent research. 
+
+My decision to apply to UNIV is based on a careful examination of
+the department bulletin and the research interests of the faculty
+members. I have contacted PROF, who has encouraged me to apply.
+I would really love working under his guidance for my Ph.D.
+I believe that graduate education at your University will enhance
+my  knowledge,  give me wide exposure and develop my abilities to
+do independent research. I  consider  myself  an enthusiastic and 
+hardworking person, and I am sure that my stay your university will be a 
+very fruitful one.
+\end{document}

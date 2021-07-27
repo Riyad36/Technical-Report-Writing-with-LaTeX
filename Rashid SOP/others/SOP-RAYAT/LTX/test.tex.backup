@@ -1,0 +1,20 @@
+
+\documentclass{article}
+
+\usepackage[hscale=0.7,vscale=0.8]{geometry}
+
+\usepackage{lipsum}
+
+
+\pagenumbering{gobble}
+
+\begin{document}
+
+\begin{center}
+\textbf{Statement of Purpose} \\
+\end{center}
+
+
+\lipsum[1-5]
+
+\end{document}
